@@ -4,7 +4,7 @@ Welcome to my portfolio! 🚀 This repository contains a link to access my profe
 
 ## About Me
 Experienced professional with over 6 years of hands-on expertise in the dynamic field of Quality Assurance within the Gaming Industry.  
-I am now focused on a new and exciting professional chapter. This is built upon a strong foundation of experience, having most recently served as a **QA Analyst at Side**, with prior impactful roles as a Lead QA Analyst at **Petit Fabrik**, and QA positions at **Gixer Entertainment**, **DX Gameworks**, and **Garage 227 Studios**, where I gained a comprehensive understanding of game development processes and QA methodologies.  
+I am now focused on a new and exciting professional chapter. This is built upon a strong foundation of experience, having most recently served as a QA Analyst at **Side**, with prior impactful roles as a Lead QA Analyst at **Petit Fabrik**, and QA positions at **Gixer Entertainment**, **DX Gameworks**, and **Garage 227 Studios**, where I gained a comprehensive understanding of game development processes and QA methodologies.  
 
 ### Key Highlights:
 - Expertise in **comprehensive documentation**, meticulous **test cases**, and **strategic testing plans**.
